@@ -1,8 +1,8 @@
 ---
 name: virtual-test-agent
-description: V1 of the virtual single-file agent
+description: V2 UPDATED virtual agent
 ---
 
-# Virtual Agent V1
+# Virtual Agent V2
 
-Original content version 1.
+NEW content version 2 - drift test.
