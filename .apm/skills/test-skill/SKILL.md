@@ -1,8 +1,8 @@
 ---
 name: test-skill
-description: V1 of the test skill
+description: V2 of the test skill - UPDATED
 ---
 
-# Test Skill V1
+# Test Skill V2
 
-Original content version 1.
+NEW content version 2 - this should appear after re-install.
